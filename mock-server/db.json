@@ -1,0 +1,118 @@
+{
+  "categories": [
+    {
+      "category_id": 1,
+      "category_name": "Coffin",
+      "category_image": "https://lh3.googleusercontent.com/k-r6D_9dznqcxJMFQJRsRrOQ3uX910IiZqXpUwYvBd-ud_7-PXZAImtJK79Ort468skzV5DudY58fynYjmuDbFoUy7sw_2Enhr7eVfHJI9HdBg2JbI0ZghmWipr4rlVXALA6N5YNbj6biYcQC-fiOK0bl_j6bxcK6jy424xxZBPpZGUA5fzOOQ2Hz7Kl8cxj5EhaepdmFXaa6Wwzoa8kDcx12CWFYWSVdWuUoHFMwGUQwcZ1SEge6Yvo-FmpfNpIb5DBM9UbR9-UopUKYN-8w2c8XMULn7DqkH8tN39JWxS-83fjdOm-RAaKOjxo_majiSLzBg0-ty9E-19hXukRTvVPt9X25MRNuEp4-zZTlt5XtpHwnqEhJ8PszSDNoRb0YDuywYDkW7xAahVhU5_9qo7AtDA-_GFOMM197yuPLVabUDaCNmOvGjIx45Eu-uudXpwNvahEiFmcadgOMUGAVUfZ-hkTncE90bWs1VWxsYYRtNE4wItC_F01phwORUzWAZniR3cIeTQgrrh_CrGYSyLM-8q-UXbWM4Sp1fPLAa1vOjtQs1m1kCdGFghHmNaQBmd27L_FOLP3F9rd2lskRFYQkEPfGHdCFCtDEjS2g1ulk21_RffgSMG6TujDeTmSJoXoGB5BWTDrXgOHCJSsNxlJaHJlTzQ=s512-no"
+    },
+    {
+      "category_id": 2,
+      "category_name": "Incense",
+      "category_image": "https://lh3.googleusercontent.com/O_OX3isqBGCpQOoXPVWQxrsLbI5y7fH7V4KkEoL8xnvK6EWD4bEe0BQyZUumRwK7u25WqW01daxB_H1GxFV9Vsl7TZ5wgPa-tvgulorre96OHJ45O_bVoXe1iFOjhlKdaApCGHVCOMPAgTDOFhgoLWaeJIdwAXeMht5mo9xf-1FwNBaJCYNY_zi7UifDzrFM0RD7sx8kvAl8BfcY4vzNLQnm5jp6elnxU6NKiOlRF2zkAAJglj1bW94VJb0OvHH38rtKtUtAVZzgTfBZTACu7y9MpwsWWebJ4YYT5MxMU95Vwct2zcy8JkRiSZO7a7zoAe-453MNv65tMeGv5Yq4kbF_w-S_lf9Pmk1BhstdIUQ_LpKeHa6ZTRc6jIj3KD1HP_O7CJSOzmvNbBLgqSurHkhCS2R07Bq-dZddBpxFQLVNsNlMwtmFfUdsuV7Qqw5Efr5PfgNpfR2HMhsXxvywC3lSQBwTJyUdmbf-tqCpG0t9ryZdzWEvXvuETQck5IGsmY40VgDbyuCutBRNLT3qvHCdVLQzj14erkOw4P5q0i6sSyY0Yfm6nSMuMriDC5vtu7PqqHS6TThDeiwj_f-NzfkItUUFQiFf76ayH2fk0TujDy58EjX1jVujdCfx2YPHGJ_AMbEKIxclx22gthNrccRLwv_lIes=s512-no"
+    },
+    {
+      "category_id": 3,
+      "category_name": "Picture Frame",
+      "category_image": "https://lh3.googleusercontent.com/KfQEZMCda7tM7XsrB3F60W6vt9vs8xpPz7319PGKMuXmnWdkecaXpnJHkwkmAOLeLR42kKmauZhQROVSekMhfbz5-0mWHQlZseSIdM659y-WseIe5AAPWe6jBkK-fzbaINx0IDw_SZZU6Pcf2O2wpwffk1hmgNePdMjdQO_bkJfRe1Lu3g6fxMKqBTeUoaN6OXdpZ5y9Pro0Fmdlb_w-21p2UBeMMKMI2M4_Jqaqow8DN69V-ILGO-0MFUxSgpdu44hUVPVlwP1fESeT4IzNNOeG2eXQfw4OjLfVW-f_QDdpuZGOHvO4I-YuroAWMHOSsuotDJTdYx63u7tbhTTevSp4ukd6gRvain0uzf74VwMF_2Q7S2E-tB8ZEyy1NF-mvWwqvQljbxIcRvZfoiQWXloepypXj5wQwd1sM7gNYKvp6bOSSQUH73zL3nJpoZp3TDXsgWNre-Ea3sWEG_VZyh8Q3PHKaJ7n-EEv56VX5hZNA-G_rjOK4Lq_Is-Ae3SO2IWgLU032eDtou88JWvfdDtvyMBf86MPu2iXe4e-h3_O3mgxhq-J__tz-wZFQJmc4JJLLzuRE2SEtB7mrbsounGbXN5WIgLZKN32nr5Xla_UFlsqvQLIpEwAnabJh-rCniCRDD-QjIhxRWQNdj0RNqTqABb9hd8=s512-no"
+    },
+    {
+      "category_id": 4,
+      "category_name": "Ashes Jar",
+      "category_image": "https://lh3.googleusercontent.com/2cnIAWWdIzeSGyvgYF42nR46Jd9HktglERqcHDgkjqg63ArIzPIi68lanvVI7F2vcIVzhkKBijiBejZLUsJtudm5ooxG6PUIgnKrNZr5QnST15nkb_xlazU9UrPl1BY4y9WOB_z5UKSM8sNxoyD320K5ZEiq5UQsQMErX96dBprBuFZAW6mWhawC7gTWaohrHWV5AWz9MrK3JsofVl7n9VT6HRCl6DTjGMhybugaSU-32idH52GQoFPhTBx_D7qkgMVLI-RbkNg1LtdNrUcHsQkp1kc295IlFY8ZFO_hdIVzOzRUfR4rjTiV4IiQp98jplsVUh8B_k40aasbbwYIA7qsD2f9BMUUtOAzU-p_3vGKl5_xsXtmKSfv3tNk2ACELTysNdBCJylVV7r57yLZa3yuFNOT3yYvxwatxyaNSeHULvNrS-xGJOfdvADnFhzj8CxxwPWK95KhB2Cafx8iUWct-6_5-V7pogv-EbC7kqOiwgqclq9nZsL8jdIXpA1g6EHqnwuB1V3ZRbrZefJuVS-HtNMiUM5s5ngml7RMCsg23vIaXazdzbHI9UIrPv-4TRWfcPDDGdoZ6DnNaHChV2Emahm-Mz18wFrjDMNu7ynnQ78_DjQlQFo3COkVsjIVMb3rtqavZRSXzFjNv9hkKqT5jWYdWZ4=s512-no"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": 1,
+      "product_name": "Genesis Mahogany Coffin",
+      "product_price": "300",
+      "product_img": "https://www.sydneycoffins.com.au/wp-content/uploads/2018/01/sydney-coffins-genesis-mahogany-coffin.jpg"
+    },
+    {
+      "id": 2,
+      "category": 1,
+      "product_name": "Miniature Wooden Coffin",
+      "product_price": "400",
+      "product_img": "https://images-na.ssl-images-amazon.com/images/I/81jNvauwycL._SL1500_.jpg"
+    },
+    {
+      "id": 3,
+      "category": 1,
+      "product_name": "Toscano Vampire Coffin",
+      "product_price": "3000",
+      "product_img": "https://images-na.ssl-images-amazon.com/images/I/71SVAIazKVL._SX425_.jpg"
+    },
+
+    {
+      "id": 4,
+      "category": 2,
+      "product_name": "Catholic Incense & Burners Gift",
+      "product_price": "300",
+      "product_img": "https://images-na.ssl-images-amazon.com/images/I/71ZKgMeVDHL._SX425_.jpg"
+    },
+    {
+      "id": 5,
+      "category": 2,
+      "product_name": "Karma Scents Premium Incense Sticks",
+      "product_price": "400",
+      "product_img": "https://images-na.ssl-images-amazon.com/images/I/81dalsxyNkL._SL1500_.jpg"
+    },
+    {
+      "id": 6,
+      "category": 2,
+      "product_name": "Ellie The Elephant Incense Holder",
+      "product_price": "3000",
+      "product_img": "https://s7d5.scene7.com/is/image/UrbanOutfitters/42986943_067_b?$xlarge$&hei=900&qlt=80&fit=constrain"
+    },
+
+    {
+      "id": 7,
+      "category": 3,
+      "product_name": "HOVSTA Frame",
+      "product_price": "300",
+      "product_img": "https://www.ikea.com/PIAimages/0638252_PE698802_S5.JPG"
+    },
+    {
+      "id": 8,
+      "category": 3,
+      "product_name": "RIBBA Frame Black",
+      "product_price": "400",
+      "product_img": "https://www.ikea.com/gb/en/images/products/ribba-frame-black__0638340_pe698864_s4.jpg"
+    },
+    {
+      "id": 9,
+      "category": 3,
+      "product_name": "Frame Company Eldridge",
+      "product_price": "3000",
+      "product_img": "https://images-na.ssl-images-amazon.com/images/I/41-t%2B6tXOSL.jpg"
+    },
+
+    {
+      "id": 10,
+      "category": 4,
+      "product_name": "Cremation Urns",
+      "product_price": "200",
+      "product_img": "https://images-na.ssl-images-amazon.com/images/I/514EpJWNjyL._AC_UY600_.jpg"
+    },
+    {
+      "id": 11,
+      "category": 4,
+      "product_name": "Funeral Souvenirs",
+      "product_price": "400",
+      "product_img": "https://images-na.ssl-images-amazon.com/images/I/51KoKD4NARL._SX425_.jpg"
+    },
+    {
+      "id": 12,
+      "category": 4,
+      "product_name": "Purple Metal Brass Cremation",
+      "product_price": "3000",
+      "product_img": "https://sc01.alicdn.com/kf/HTB1q0lcbbvpK1RjSZPiq6zmwXXap/Wholesale-Purple-Metal-Brass-Cremation-Urn-Jar.jpg_350x350.jpg"
+    }
+  ],
+  "cart": [
+    { "cart_id": 1, "product": 1, "quantity": 2 },
+    { "cart_id": 2, "product": 1, "quantity": 2 },
+    { "cart_id": 3, "product": 1, "quantity": 2 }
+  ]
+}
